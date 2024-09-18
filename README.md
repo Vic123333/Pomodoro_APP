@@ -11,7 +11,7 @@ A simple **Pomodoro Timer** built using Python's Tkinter for the user interface.
 - **Sound Alert**: (Optional) Use a sound to notify the user when the timer ends (feature commented out in the code).
 
 ## Screenshots
-![Pomodoro Timer Screenshot](path_to_screenshot)
+![Pomodoro Timer Screenshot](/Pomodoro Screenshot.PNG)
 
 ## Requirements
 - Python 3.x
